@@ -1,11 +1,14 @@
 >  # Documentação de atividade 
 
 >  ##  Objetivo
-* Durante 18 dias de aula, aprendemos sobre diversas ferramentas e tecnologias. Começamos utilizando o sistema operacional Linux Ubuntu Server <a href="https://ubuntu.com/download/server"><img src="ubuntu-logo2.png" width= "18" alt="Descrição da imagem"></a>
-  versão mais recente (22.04)  que instalamos a ferramenta "Cockpit" instalada para gerenciamento da máquina via web através de conexão IP/Porta. Utilizamos o " Virtual Box" <a href="https://www.virtualbox.org/wiki/Downloads"><img src="virtualbox-logo.png"  width = "18" alt="Descrição da imagem"></a>
+* Durante 18 dias de aula, aprendemos sobre diversas ferramentas e tecnologias. Começamos utilizando o sistema operacional Linux Ubuntu Server 
+<a href="https://ubuntu.com/download/server"><img src="ubuntu-logo2.png" width= "18" alt="Descrição da imagem"></a>
+  versão mais recente (22.04)  que instalamos a ferramenta "Cockpit" instalada para gerenciamento da máquina via web através de conexão IP/Porta. Utilizamos o " Virtual Box" 
+  <a href="https://www.virtualbox.org/wiki/Downloads"><img src="virtualbox-logo.png"  width = "18" alt="Descrição da imagem"></a>
  um software com o objetivo de subir uma "VM (Virtual Machine)", optamos por utiliza-lo pois não podiamos utilizar tais ferramentas na maquina fisica que estavamos
 
-* Em seguida, instalamos o Docker <img src="dockerlogo.png" alt="Logo Docker tamanho 22" width="19" height="">  uma plataforma de containerização que permite empacotar, distribuir e executar aplicativos em ambientes isolados e independentes de infraestrutura. Utilizamos o Docker Compose para definir e executar aplicativos compostos por múltiplos containers com configurações de ambiente, porta, versão.
+* Em seguida, instalamos o Docker
+ <img src="dockerlogo.png" alt="Logo Docker tamanho 22" width="19" height="">  uma plataforma de containerização que permite empacotar, distribuir e executar aplicativos em ambientes isolados e independentes de infraestrutura. Utilizamos o Docker Compose para definir e executar aplicativos compostos por múltiplos containers com configurações de ambiente, porta, versão.
 
 * Subimos três containers dentro do Docker-compose com diferentes aplicações: MySQL <img src="mysql-logo.png" alt="Logo MySql tamanho 25" width="25"> para gerenciamento de banco de dados, Adminer para gerenciamento do banco de dados MySQL via web com ambiente gráfico, e Wordpress <img src="Wordpress.svg" alt="Logo Wordpress 18" width="18"> um servidor web que utiliza um banco de dados.
 ---
