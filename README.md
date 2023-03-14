@@ -316,26 +316,26 @@ No comando dito, mostrará o estado do container, como nome do container, se est
 ___
 ## Demonstração
 >  ## Ubuntu Server 22.04:
-![Demonstracao do Ubuntu]()
+![Demonstracao do Ubuntu](./Demonstracao-ubuntu.webp)
 ___
 
 > ## Cockpit:
-![Demonstracao Cockpit]()
+![Demonstracao Cockpit](./CockiptTerminal.png)
 ___
 > ## Docker (containers)
-![Demonstracao docker ps -a]()
+![Demonstracao docker ps -a](./DemonstracaoMySQL.png)
 ___
 > ## Docker-compose (docker-compose.yml)
-![Demonstracao linha comando dockercompose]()
+![Demonstracao linha comando dockercompose](./)
 ___
 > ## MySQL
-![Demonstracao MYSQL]()
+![Demonstracao MYSQL](./DemonstracaoMySQL.png)
 ___
 > ## Adminer
-![Demonstracao Adminer na pagina]()
+![Demonstracao Adminer na pagina](./AdminerDemonstracao.png)
 ___
 > ## WordPress
-![Demonstracao WordPress criado]()
+![Demonstracao WordPress criado](./DemonstracaoWordpress.png)
 ___
 ## Ferramentas utilizadas não citadas
 
